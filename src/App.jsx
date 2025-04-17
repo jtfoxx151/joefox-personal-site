@@ -8,7 +8,7 @@ export default function App() {
         <img
           src="/joefox.png"
           alt="Joe Fox"
-          className="w-40 h-40 rounded-full object-cover mb-4 shadow-lg"
+          className="w-40 h-40 rounded-full object-contain bg-white"
         />
         <h1 className="text-4xl font-bold">Joe Fox</h1>
         <p className="text-xl text-gray-600 mt-2">
