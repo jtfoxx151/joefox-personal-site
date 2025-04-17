@@ -6,7 +6,7 @@ export default function App() {
     <div className="min-h-screen font-sans">
       <section className="flex flex-col items-center justify-center text-center py-16 px-4 bg-gray-100">
         <img
-          src="/joefox.jpg"
+          src="/joefox.png"
           alt="Joe Fox"
           className="w-40 h-40 rounded-full object-cover mb-4 shadow-lg"
         />
